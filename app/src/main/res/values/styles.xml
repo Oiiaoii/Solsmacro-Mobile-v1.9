@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Dark theme. The status bar and navigation bar are painted the same black as the app,
+         so the blue bar on top of the old screen is gone. -->
+    <style name="AppTheme" parent="android:Theme.DeviceDefault.NoActionBar">
+        <item name="android:windowBackground">#FF060608</item>
+        <item name="android:statusBarColor">#FF060608</item>
+        <item name="android:navigationBarColor">#FF060608</item>
+        <item name="android:colorPrimary">#FF060608</item>
+        <item name="android:colorPrimaryDark">#FF060608</item>
+        <item name="android:colorAccent">#FF38D39F</item>
+        <item name="android:textColorHint">#FF6C6C77</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>

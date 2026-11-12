@@ -1,0 +1,39 @@
+{
+  "username": "Brry",
+  "content": "### Rainy Biome\nhttps://www.roblox.com/share?code=YOUR_PRIVATE_SERVER_CODE&type=Server",
+  "embeds": [
+    {
+      "title": "BIOME STARTED - RAINY Found",
+      "color": 8560056,
+      "thumbnail": {
+        "url": "attachment://biome.png"
+      },
+      "fields": [
+        {
+          "name": "Channel",
+          "value": "<#CHANNEL_ID>",
+          "inline": false
+        },
+        {
+          "name": "Time",
+          "value": "<t:UNIX_TIME:R>",
+          "inline": false
+        },
+        {
+          "name": "Message",
+          "value": "[Jump to Message](https://discord.com/channels/GUILD_ID/CHANNEL_ID/MESSAGE_ID)",
+          "inline": false
+        }
+      ],
+      "footer": {
+        "text": "Message <@YOUR_USER_ID> for any bugs"
+      }
+    }
+  ],
+  "attachments": [
+    {
+      "id": 0,
+      "filename": "biome.png"
+    }
+  ]
+}
